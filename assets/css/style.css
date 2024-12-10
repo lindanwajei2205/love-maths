@@ -235,6 +235,8 @@ body {
 @media (max-width: 320px) {
     .game-area {
         /* height: 70vh; */
+        height: auto;
+        
     }
 
     .controls-area {
